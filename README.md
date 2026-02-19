@@ -48,59 +48,87 @@
 
 ## 🛠️ Skills
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming & Core Skills</h3>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,sql" />
-<p>Strong foundations in programming, problem-solving, and system-level thinking</p>
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">💻 Programming & Core Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+</p>
+<p align="center">
+  Strong foundations in programming, problem-solving, and system-level thinking
+</p>
+
 </td>
 
-<td width="50%" align="center">
-<h3>📊 Data & Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=python" />
-<p>
-Data preprocessing, exploratory data analysis, regression & classification basics, 
-time-series forecasting fundamentals, CNN concepts (learning level)
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">📊 Data & Machine Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
+<p align="center">
+  Data preprocessing, exploratory data analysis, regression & classification basics,
+  time-series forecasting fundamentals, CNN concepts (learning level)
+</p>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<h3>🧠 Libraries & Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-<p>
-Pandas, NumPy, Scikit-learn (basic), TensorFlow (learning), 
-Power BI (dashboarding), Google Colab
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">🧠 Libraries & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
+<p align="center">
+  Pandas, NumPy, Scikit-learn (basic), TensorFlow (learning),
+  Power BI (dashboarding), Google Colab
+</p>
+
 </td>
 
-<td width="50%" align="center">
-<h3>🔌 Hardware & Embedded Systems</h3>
-<img src="https://skillicons.dev/icons?i=arduino" />
-<p>
-Circuit design, sensors & interfacing, embedded system concepts,
-hardware–software integration, robotics (surveillance robot project),
-IoT fundamentals (learning)
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">🔌 Hardware & Embedded Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
+<p align="center">
+  Circuit design, sensors & interfacing, embedded system concepts,
+  hardware–software integration, robotics (surveillance robot project),
+  IoT fundamentals (learning)
+</p>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-<p>Relational databases, basic querying and data handling</p>
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+<p align="center">
+  Relational databases, basic querying and data handling
+</p>
+
 </td>
 
-<td width="50%" align="center">
-<h3>⚙️ Platforms & Workflow</h3>
-<img src="https://skillicons.dev/icons?i=github" />
-<p>
-Git & GitHub, project documentation, collaborative development,
-hackathons, academic & internship projects
+<td width="50%" align="center" valign="top">
+
+<h3 align="center">⚙️ Platforms & Workflow</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
+<p align="center">
+  Git & GitHub, project documentation, collaborative development,
+  hackathons, academic & internship projects
+</p>
+
 </td>
 </tr>
 </table>
