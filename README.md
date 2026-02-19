@@ -18,8 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:jalmeshmhatre03@gmail.com">
-      <img src="https://img.shields.io/badge/email-jalmeshmhatre03@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+      <img src="https://img.shields.io/static/v1?label=email&message=jalmeshmhatre03@gmail.com&color=1e1e2e&style=for-the-badge&logo=gmail&logoColor=white" />
   </p>
 </div>
 
