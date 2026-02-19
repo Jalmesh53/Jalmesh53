@@ -5,14 +5,16 @@
   Hi, I'm <strong>Jalmesh Mhatre</strong>
 </h1>
 
-<h3 align="left">Full Stack Developer | MERN • Python • Flutter</h3>
+<h3 align="left">Electronics & Computer Science Undergraduate | ML • Data Analytics • Hardware Systems</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    Electronics and Computer Science student at SIES GST, Navi Mumbai (CGPA 9.62 till 3rd sem) with hands-on experience
+    in machine learning, data analytics, and hardware-based systems. Completed an ML internship
+    focused on predictive modeling and data preprocessing, with growing interest in IoT,
+    embedded systems, and hardware–software integration.
   </p>
 
   <p>
