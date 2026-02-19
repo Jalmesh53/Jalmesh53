@@ -51,25 +51,56 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<h3>💻 Programming & Core Skills</h3>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,sql" />
+<p>Strong foundations in programming, problem-solving, and system-level thinking</p>
 </td>
 
 <td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<h3>📊 Data & Machine Learning</h3>
+<img src="https://skillicons.dev/icons?i=python" />
+<p>
+Data preprocessing, exploratory data analysis, regression & classification basics, 
+time-series forecasting fundamentals, CNN concepts (learning level)
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🧠 Libraries & Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+<p>
+Pandas, NumPy, Scikit-learn (basic), TensorFlow (learning), 
+Power BI (dashboarding), Google Colab
+</p>
+</td>
+
+<td width="50%" align="center">
+<h3>🔌 Hardware & Embedded Systems</h3>
+<img src="https://skillicons.dev/icons?i=arduino" />
+<p>
+Circuit design, sensors & interfacing, embedded system concepts,
+hardware–software integration, robotics (surveillance robot project),
+IoT fundamentals (learning)
+</p>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<p>Relational databases, basic querying and data handling</p>
 </td>
 
 <td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+<h3>⚙️ Platforms & Workflow</h3>
+<img src="https://skillicons.dev/icons?i=github" />
+<p>
+Git & GitHub, project documentation, collaborative development,
+hackathons, academic & internship projects
+</p>
 </td>
 </tr>
 </table>
