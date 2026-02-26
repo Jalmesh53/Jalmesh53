@@ -16,7 +16,7 @@
     focused on predictive modeling and data preprocessing, with growing interest in IoT,
     embedded systems, and hardware–software integration.
   </p>
-  
+
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:jalmeshmhatre03@gmail.com">
