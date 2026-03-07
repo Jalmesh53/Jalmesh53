@@ -9,7 +9,7 @@
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
+  
   <p>
     Electronics and Computer Science student at SIES GST, Navi Mumbai (CGPA 9.62 till 3rd sem) with hands-on experience
     in machine learning, data analytics, and hardware-based systems. Completed an ML internship
