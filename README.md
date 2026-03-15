@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/static/v1?label=email&message=jalmeshmhatre03@gmail.com&color=1e1e2e&style=for-the-badge&logo=gmail&logoColor=white" />
   </p>
 </div>
-
+      
 <h3>🌐 Socials</h3>
 
 <p align="left">
