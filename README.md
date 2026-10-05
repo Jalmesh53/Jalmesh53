@@ -54,7 +54,7 @@
 
 <h3 align="center">💻 Programming & Core Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 <p align="center">
   Strong foundations in programming, problem-solving, and system-level thinking
